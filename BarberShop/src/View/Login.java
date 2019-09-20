@@ -60,12 +60,16 @@ public class Login extends javax.swing.JFrame {
         jButton1.setText("Login");
 
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Images/icons8_Discord_32px.png"))); // NOI18N
+        jLabel1.setToolTipText("Discord");
 
         jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Images/icons8_Facebook_Old_32px.png"))); // NOI18N
+        jLabel3.setToolTipText("Facebook");
 
         jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Images/icons8_Instagram_32px.png"))); // NOI18N
+        jLabel4.setToolTipText("Instagram");
 
         jLabel5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Images/icons8_WhatsApp_32px.png"))); // NOI18N
+        jLabel5.setToolTipText("Whatsapp");
 
         jProgressBar1.setIndeterminate(true);
 
